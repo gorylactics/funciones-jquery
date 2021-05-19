@@ -1,0 +1,58 @@
+body{
+    background: rgb(49, 4, 49);
+}
+.P{
+    border: solid 7px black;
+    border-radius: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+h1,h2,p{
+    color: whitesmoke;
+    text-align: center;
+}
+h1,h2{
+    font-size: 25px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.boton{
+    display: block;
+    margin: 0 auto;
+    padding: 15px 30px 15px 30px;
+    color: yellowgreen;
+    font-size: 20px;
+}
+
+#tarjeta{
+    background-color: rgb(138, 224, 7);
+    padding: 10px;
+    margin: 10px;
+    width: 40%;
+    /* height: 200px; */
+    display: inline-block   ;
+}
+#tituloNoticia{
+    color: purple;
+}
+#imgTarjeta{
+    width: 100px;
+    margin-left: 25%;
+}
+
+.texto2{
+    margin: 0 auto;
+    width: 50%;
+    padding-bottom: 50px;
+}
+.img{
+    width: 200px;
+}
+
+.fondo{
+    background-color: black;
+}
